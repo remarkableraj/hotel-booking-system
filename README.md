@@ -1,51 +1,54 @@
-<!-- social media connecting shield -->
+# 🏨 Hotel Room Booking System
 
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
+A full-stack hotel room booking system for beach resorts, built using the MERN stack and modern UI frameworks. Users can browse, filter, and book rooms, while admins manage listings and bookings from a dedicated dashboard.
 
-![Frontend Screenshot](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/frontend-screenshot.png)
+---
 
-# ✨ Beach Resort | Hotel Room Booking System
+## 🔧 Tech Stack
 
-Hello 👋, I'm <strong>Samiur Rahman Mukul</strong>. In this repository i will be build a `Complete 'Beach Resort' | Hotel Room Booking System - Web application`. Using `Node.js, Express.js,  MongoDB, React.js, Next.js, Redux.js, Ant Design & Tailwind CSS`. So are you interested at this project let's connect and explore somethings new. Thanks
+- **Backend**: Node.js, Express.js, MongoDB
+- **Frontend**: Next.js, React.js, Redux, Tailwind CSS, Ant Design
+- **Admin Panel**: React, Redux, Tailwind, Ant Design
 
-<!-- contents of projects -->
+---
 
-## 🧑‍💻 Development Stack
+## 🚀 Live Demos
 
-- `Backend` - Node.js, Express.js & MongoDB Database
-- `Admin Panel` - React.js, Redux.js, Ant Design & Tailwind CSS
-- `Frontend` - Next.js, Redux.js & Ant Design
+- **Frontend**: Coming Soon
+- **Admin Panel**: Coming Soon
 
-## ⛳️ Live Preview
+---
 
-- Admin Panel - [`🚀 Click to Visit`][admin-panel-link]
-- Frontend (Client Side) - [`🚀 Click to Visit`][frontend-link]
+## 📸 Screenshot
 
-<!-- my social media links -->
+![Frontend Screenshot](https://raw.githubusercontent.com/remarkable-raj/hotel-room-booking/main/frontend-screenshot.png)
 
-[facebook-url]: https://www.faceook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
+> (Replace the image link above if you change the file name or upload a new one)
 
-<!-- shield icon links -->
+---
 
-[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&color=555&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
+## 🧪 Features
 
-<!-- live preview links -->
+- 🔐 User authentication
+- 🛏️ Room search, filter, and booking
+- 📊 Admin dashboard for room & booking management
+- 📱 Fully responsive UI
 
-[admin-panel-link]: https://admin-beach-resort.vercel.app
-[frontend-link]: https://mukul-beach-resort.vercel.app
+---
 
-<p align="center">
-  <strong> HAPPY DEVELOPMENT 😀 & I LOVE PROGRAMMING 💖 </strong>
-</p>
+## 📁 Setup Instructions
+
+```bash
+# Clone the repo
+git clone https://github.com/remarkable-raj/hotel-room-booking.git
+cd hotel-room-booking
+
+# Backend setup
+cd backend
+npm install
+npm start
+
+# Frontend setup
+cd ../frontend
+npm install
+npm run dev
